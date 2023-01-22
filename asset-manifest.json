@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/as-assignment-webpage/static/css/main.1a20fb9d.css",
+    "main.js": "/as-assignment-webpage/static/js/main.11ba2585.js",
+    "static/js/787.c9958180.chunk.js": "/as-assignment-webpage/static/js/787.c9958180.chunk.js",
+    "static/media/video2.mp4": "/as-assignment-webpage/static/media/video2.5ae5c48d36ed27ba511f.mp4",
+    "static/media/video3.mp4": "/as-assignment-webpage/static/media/video3.44910305692c1d82ef2d.mp4",
+    "static/media/video1.mp4": "/as-assignment-webpage/static/media/video1.d755d7e3ca5362150424.mp4",
+    "static/media/GTWalsheimPro-Bold.ttf": "/as-assignment-webpage/static/media/GTWalsheimPro-Bold.2dbf49e9fcb548837711.ttf",
+    "static/media/GTWalsheimPro-Regular.ttf": "/as-assignment-webpage/static/media/GTWalsheimPro-Regular.1fd3cd7ade0f79b2152a.ttf",
+    "static/media/GTWalsheimPro-Medium.ttf": "/as-assignment-webpage/static/media/GTWalsheimPro-Medium.bc56cfc10feb515d6622.ttf",
+    "static/media/logo.png": "/as-assignment-webpage/static/media/logo.f2b92e3e45f691c5a1fc.png",
+    "index.html": "/as-assignment-webpage/index.html",
+    "main.1a20fb9d.css.map": "/as-assignment-webpage/static/css/main.1a20fb9d.css.map",
+    "main.11ba2585.js.map": "/as-assignment-webpage/static/js/main.11ba2585.js.map",
+    "787.c9958180.chunk.js.map": "/as-assignment-webpage/static/js/787.c9958180.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a20fb9d.css",
+    "static/js/main.11ba2585.js"
+  ]
+}
