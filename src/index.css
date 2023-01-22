@@ -1,3 +1,21 @@
+@font-face {
+  font-family: "Gtwalsheimpro";
+  src: local("Gtwalsheimpro"),
+   url("./assets/fonts/GTWalsheimPro-Regular.ttf") format("truetype");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "GtwalsheimproMed";
+  src: local("GtwalsheimproMed"),
+   url("./assets/fonts/GTWalsheimPro-Medium.ttf") format("truetype");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "GtwalsheimproBold";
+  src: local("GtwalsheimproBold"),
+   url("./assets/fonts/GTWalsheimPro-Bold.ttf") format("truetype");
+  font-weight: bold;
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
